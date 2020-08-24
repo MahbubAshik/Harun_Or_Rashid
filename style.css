@@ -1,0 +1,37 @@
+.car_left{
+    padding:150px 50px;
+}
+.btn{
+    background-color: black;
+    color:#fff;
+    padding: 10px 25px;
+    border-radius: 7px;;
+}
+.button{
+   margin-left: 90px;
+}
+.price{
+    margin-left: 95px;
+}
+.Categories{
+    padding-top: 50px;
+}
+.card{
+    border:none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px lightgray;
+}
+.box{
+    height: 20px;
+    weight:50px;
+    background-color: yellow;
+}
+.Image1{
+    padding-top:200x;
+}
+.Image2{
+    /* padding-top:100px; */
+}
+.resize{
+    margin-top: 50px;
+}
